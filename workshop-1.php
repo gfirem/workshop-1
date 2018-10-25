@@ -20,3 +20,4 @@ function workshop_1_admin_page() {
 	$text = 'Hello';
 	echo '<h1>' . $text . '</h1>';
 }
+
